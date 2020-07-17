@@ -60,7 +60,7 @@ The database reports an average CPU utilization of 3% .
  ![version](https://img.shields.io/static/v1?label=version&message=1.0.20&color=important&style=for-the-badge) ![status](https://img.shields.io/static/v1?label=status&message=production&color=blue&style=for-the-badge)
 
 Webiste can be found live at:
- * http://godseye-env.eba-gpcz6ppk.us-east-2.elasticbeanstalk.com/
+ * https://kelvinator11.github.io/Reactive-One-Page-Navigational-Site/
 
 ## Demo :movie_camera:
 Demo video can be found [here](https://youtu.be/0mx5jkTiKyU)
